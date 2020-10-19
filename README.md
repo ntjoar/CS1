@@ -1,2 +1,2 @@
 # CS1
-Computer Science 1 lectures. Only introductory topics.
+Computer Science 1 lectures. Only introductory topics
